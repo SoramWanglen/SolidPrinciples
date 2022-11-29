@@ -1,0 +1,14 @@
+C:\Users\SoramWanglen\source\repos\SolidPrn\SolidPrn\bin\Debug\netcoreapp3.1\SolidPrn.exe
+C:\Users\SoramWanglen\source\repos\SolidPrn\SolidPrn\bin\Debug\netcoreapp3.1\SolidPrn.deps.json
+C:\Users\SoramWanglen\source\repos\SolidPrn\SolidPrn\bin\Debug\netcoreapp3.1\SolidPrn.runtimeconfig.json
+C:\Users\SoramWanglen\source\repos\SolidPrn\SolidPrn\bin\Debug\netcoreapp3.1\SolidPrn.runtimeconfig.dev.json
+C:\Users\SoramWanglen\source\repos\SolidPrn\SolidPrn\bin\Debug\netcoreapp3.1\SolidPrn.dll
+C:\Users\SoramWanglen\source\repos\SolidPrn\SolidPrn\bin\Debug\netcoreapp3.1\SolidPrn.pdb
+C:\Users\SoramWanglen\source\repos\SolidPrn\SolidPrn\obj\Debug\netcoreapp3.1\SolidPrn.csproj.AssemblyReference.cache
+C:\Users\SoramWanglen\source\repos\SolidPrn\SolidPrn\obj\Debug\netcoreapp3.1\SolidPrn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoramWanglen\source\repos\SolidPrn\SolidPrn\obj\Debug\netcoreapp3.1\SolidPrn.AssemblyInfoInputs.cache
+C:\Users\SoramWanglen\source\repos\SolidPrn\SolidPrn\obj\Debug\netcoreapp3.1\SolidPrn.AssemblyInfo.cs
+C:\Users\SoramWanglen\source\repos\SolidPrn\SolidPrn\obj\Debug\netcoreapp3.1\SolidPrn.csproj.CoreCompileInputs.cache
+C:\Users\SoramWanglen\source\repos\SolidPrn\SolidPrn\obj\Debug\netcoreapp3.1\SolidPrn.dll
+C:\Users\SoramWanglen\source\repos\SolidPrn\SolidPrn\obj\Debug\netcoreapp3.1\SolidPrn.pdb
+C:\Users\SoramWanglen\source\repos\SolidPrn\SolidPrn\obj\Debug\netcoreapp3.1\SolidPrn.genruntimeconfig.cache
